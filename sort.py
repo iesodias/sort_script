@@ -12,7 +12,7 @@ while True:
 x = 0
 while x < len(L):
 	print(L[x], R[x])
-	x=x+1
+	x+=1
 
 
 
